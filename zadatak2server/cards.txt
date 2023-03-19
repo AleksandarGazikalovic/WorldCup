@@ -1,0 +1,4 @@
+{
+  "normalCards" : 19,
+  "vipCards" : 5
+}

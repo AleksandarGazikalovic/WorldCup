@@ -1,0 +1,1 @@
+Konzolna server klijent aplikacija iz predmeta računarske mreže i telekomunikacije za kupovinu i rezervaciju karata za svetsko prvenstvo u fudbalu.

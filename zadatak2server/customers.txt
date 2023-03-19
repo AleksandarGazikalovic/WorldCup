@@ -1,0 +1,19 @@
+[ {
+  "username" : "coa",
+  "password" : "coa",
+  "name" : "Aleksandar",
+  "surname" : "Gazikalovic",
+  "email" : "aleksandargazikalovic@gmail.com",
+  "noOfCards" : 0,
+  "jmbg" : 3101002710295,
+  "vip" : false
+}, {
+  "username" : "gazi",
+  "password" : "gazi",
+  "name" : "gazi",
+  "surname" : "gazi",
+  "email" : "egfdner",
+  "noOfCards" : 1,
+  "jmbg" : 1234432112344,
+  "vip" : false
+} ]
